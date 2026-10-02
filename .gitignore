@@ -1,0 +1,6 @@
+/workers_backend/node_modules/
+/workers_backend/.wrangler/
+/workers_backend/.dev.vars
+/workers_backend/dist/
+/workers_backend/worker-configuration.d.ts
+/workers_backend
